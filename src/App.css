@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.inline-horizontal-divider {
+  height: 1px;
+  border-bottom: 1px solid;
+  flex: 1 1 auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.horizontal-divider {
+  height: 1px;
+  border-bottom: 1px solid;
+}
